@@ -2,7 +2,7 @@ tippecanoe
 ==========
 
 利用大(小)数据量的[GeoJSON](http://geojson.org/),[Geobuf](https://github.com/mapbox/geobuf), 或者[CSV](https://en.wikipedia.org/wiki/Comma-separated_values) 要素集,构建[矢量瓦片](https://www.mapbox.com/developers/vector-tiles/) 
-[例](MADE_WITH.md).
+[例如](MADE_WITH.md).
 
 ![Mapbox Tippecanoe](https://user-images.githubusercontent.com/1951835/36568734-ede27ec0-17df-11e8-8c22-ffaaebb8daf4.JPG)
 
@@ -12,10 +12,9 @@ tippecanoe
 Intent
 ------
 
-The goal of Tippecanoe is to enable making a scale-independent view of your data,
-so that at any level from the entire world to a single building, you can see
-the density and texture of the data rather than a simplification from dropping
-supposedly unimportant features or clustering or aggregating them.
+Tippecanoe 的目的是多尺度浏览数据,
+因此，大到世界级别，小到一栋独立的建筑,
+你可以从任何级别观察到数据的密度和纹理，而并非舍弃那些相对不重要的要素或分类聚合它们.
 
 If you give it all of OpenStreetMap and zoom out, it should give you back
 something that looks like "[All Streets](http://benfry.com/allstreets/map5.html)"
