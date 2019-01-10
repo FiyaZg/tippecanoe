@@ -1,8 +1,8 @@
 tippecanoe
 ==========
 
-Builds [vector tilesets](https://www.mapbox.com/developers/vector-tiles/) from large (or small) collections of [GeoJSON](http://geojson.org/), [Geobuf](https://github.com/mapbox/geobuf), or [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) features,
-[like these](MADE_WITH.md).
+利用大(小)数据量的[GeoJSON](http://geojson.org/),[Geobuf](https://github.com/mapbox/geobuf), 或者[CSV](https://en.wikipedia.org/wiki/Comma-separated_values) 要素集,构建[矢量瓦片](https://www.mapbox.com/developers/vector-tiles/) 
+[例](MADE_WITH.md).
 
 ![Mapbox Tippecanoe](https://user-images.githubusercontent.com/1951835/36568734-ede27ec0-17df-11e8-8c22-ffaaebb8daf4.JPG)
 
